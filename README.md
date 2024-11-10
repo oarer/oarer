@@ -17,6 +17,6 @@
 </p>
 <p align="center">
    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=kotlin,typescript,javascript,cs,npm,html,css,react,nextjs,tailwindcss,cloudflare,vscode,visualstudio,idea,windows,git,github,unity,discord,stackoverflow,obsidian,powershell,php,blender&theme=dark&perline=8" alt="My Skills" />
+      <img src="https://skillicons.dev/icons?i=arch,blender,bun,cloudflare,cs,css,discord,discordjs,docker,elysia,git,github,html,idea,javascript,kotlin,linux,markdown,maven,mysql,nextjs,nodejs,npm,obsidian,php,postgresql,powershell,prisma,python,react,rust,stackoverflow,tailwindcss,typescript,unity,vercel,visualstudio,vite,vscode,windows&theme=dark&perline=8" alt="My Skills" />
    </a>
 </p>
