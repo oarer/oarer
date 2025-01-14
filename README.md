@@ -1,6 +1,6 @@
 # Hey There! 👋
 <p align="center">
-   <b>I am a developer from Russia. I am creating Minecraft servers, plugins, bots and websites (frontend). <a href="https://oarer.space">My site</a></b>
+   <b>I am a developer from Russia. I am creating Minecraft servers, plugins, bots and websites (frontend and backend). <a href="https://oarer.space">My site</a></b>
 </p>
 <p align="center">
    <a>
@@ -20,3 +20,4 @@
       <img src="https://skillicons.dev/icons?i=arch,linux,windows,nodejs,bun,npm,blender,cloudflare,cs,css,discord,docker,elysia,git,github,html,idea,typescript,javascript,discordjs,kotlin,maven,nextjs,react,obsidian,php,mysql,postgresql,powershell,prisma,python,rust,stackoverflow,tailwindcss,unity,vercel,visualstudio,vite,vscode,markdown&theme=dark&perline=8" alt="My Skills" />
    </a>
 </p>
+
